@@ -1,0 +1,9 @@
+Resultados:
+
+	Al evaluar los datos del archivo car-prueba.data despues de haber entrenado el sistema con
+	los datos del archivo car.data se obtuvieron los siguientes resultados.
+
+	- unacc
+	- acc
+	- unacc
+	- unacc
